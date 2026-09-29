@@ -122,7 +122,7 @@ Exploratory-Data-Analysis/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone (https://github.com/Veenita33/EDA.git)
 ```
 
 ### Step 2: Open the Project
